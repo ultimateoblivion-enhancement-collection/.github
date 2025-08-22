@@ -17,8 +17,6 @@ Run the `.exe` installer – mods will be automatically placed in the game’s *
 
 ## 📸 Overview
  <img width="3840" height="2160" alt="oblivion-gameplay-improvements" src="https://github.com/user-attachments/assets/9e6d3862-0c51-4a38-9d81-4666351624f5" />
-![oblivion-ui-enhancements](https://github.com/user-attachments/assets/6ee1e646-39dc-4fbf-a838-28ec6884b5fd)
-
 
 ## 🎯 Key Features
 ⚡ **Graphics Overhaul** – HD textures, lighting, and weather updates.  
